@@ -1,6 +1,6 @@
-# Mapthread
+# MapthreadMX
 
-Interactive map-based storytelling for WordPress.
+A fork of Mapthread is an interactive map-based storytelling for WordPress. 
 
 ![Version](https://img.shields.io/badge/version-1.5.5-blue.svg)
 ![WordPress](https://img.shields.io/badge/wordpress-6.0%2B-brightgreen.svg)
